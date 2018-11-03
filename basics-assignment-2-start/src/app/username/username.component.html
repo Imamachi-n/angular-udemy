@@ -1,0 +1,7 @@
+<label>User Name</label>
+<input class="form-control" [(ngModel)]="username">
+<p>{{ username }}</p>
+
+<button class="btn btn-primary"
+        [disabled]="!username"
+        (click)="onClearUsername($event)">Clear</button>
