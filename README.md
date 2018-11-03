@@ -17,3 +17,8 @@ ng new my-app
 ng generate component myComponent
 mg g c myComponent
 ```
+
+## Add Bootstrap
+```bash
+yarn add bootstrap@4.1.3
+```
