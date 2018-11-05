@@ -65,3 +65,8 @@ After that, add the following lines in angular.json file.
   "src/styles.css"
 ],
 ```
+
+## 3. Debugging
+### 3.1. Angular Augury
+A Chrome and Firefox Dev Tools extension for debugging Angular applications.  
+https://augury.rangle.io/
